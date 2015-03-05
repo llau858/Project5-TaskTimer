@@ -1,0 +1,2 @@
+D:\mod7sd\COM262 - Mobile Development\Completed\Project 5-RSS Feed\app\build\intermediates\classes\debug
+D:\mod7sd\COM262 - Mobile Development\Completed\Project 5-RSS Feed\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4691be3e4d54f51354047ea964572cecc1bcc90a.jar
